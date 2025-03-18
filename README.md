@@ -5,3 +5,5 @@ Import the file in vscode or spck editor to see the full codes and how our app w
 
 -OUR PROJECT-
 Database Creation
+
+web application created in node js (a basic html web application that runs in javascript framework)
